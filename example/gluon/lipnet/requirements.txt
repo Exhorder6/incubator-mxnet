@@ -5,3 +5,4 @@ scikit-image==0.13.1
 scikit-video==1.1.11
 sk-video==1.1.10
 tqdm
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
